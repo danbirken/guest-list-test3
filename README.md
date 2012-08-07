@@ -6,3 +6,4 @@ To add yourself to the guest list, just add yourself to the bottom of the guest 
 ### Format: Name, Github username
 
 * Dan Birken, danbirken
+* Dan Birken2, danbirken2
